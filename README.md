@@ -17,11 +17,11 @@ Open localhost:8080/docs to test all the available endpoints.
 ## Testing Evidence:
 - POST Method (/receipts/process)
 
-![POST request 1st screenshot](testing_files\POST_req_1.png?raw=true "POST request 1st screenshot")
+![POST request 1st screenshot](/testing_files/POST_req_1.png?raw=true "POST request 1st screenshot")
 
-![POST request 1st screenshot](testing_files\POST_req_2.png?raw=true "POST request 1st screenshot")
+![POST request 1st screenshot](/testing_files/POST_req_2.png?raw=true "POST request 1st screenshot")
 
 - GET Method (/receipts/{id}/points)
 
-![GET request screenshot](testing_files\GET_req.png?raw=true "GET request screenshot")
+![GET request screenshot](/testing_files/GET_req.png?raw=true "GET request screenshot")
 
