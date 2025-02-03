@@ -23,5 +23,5 @@ Open localhost:8080/docs to test all the available endpoints.
 
 - GET Method (/receipts/{id}/points)
 
-![GET request screenshot](/testing_files/GET_req.png?raw=true "GET request screenshot")
+![GET request screenshot](/testing_files/Get_req.png?raw=true "GET request screenshot")
 
